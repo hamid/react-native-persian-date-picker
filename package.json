@@ -1,0 +1,24 @@
+{
+  "name": "react-native-persian-date-picker2",
+  "version": "1.0.0",
+  "description": "a jalali (persian) date picker component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamid/react-native-persian-date-picker.git"
+  },
+  "keywords": [
+    "date-picker",
+    "persian-date-picker",
+    "jalali-date-picker"
+  ],
+  "author": "Hamid Reza Salimian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamid/react-native-persian-date-picker/issues"
+  },
+  "homepage": "https://github.com/hamid/react-native-persian-date-picker#readme"
+}
