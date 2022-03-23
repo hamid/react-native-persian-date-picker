@@ -181,4 +181,4 @@ It's not finished and some work has to be done yet.
 4. Cleanup code (e.g. measuring of components)
 
 ## Contributing
-Please share your comment and tests with me by [`@hamid`](http://github.com/hamid) and [`twiiter`](https://twitter.com/hamid_salimian). 😉😌
+Please share your comment and tests with me by [`@hamid`](http://github.com/hamid) and [`twitter`](https://twitter.com/hamid_salimian). 😉😌
